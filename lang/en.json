@@ -1,0 +1,10 @@
+{
+    "artistListScreen": {
+        "searchText": "Type in artist name..."
+    },
+    "artistDetailsScreen": {
+        "title": "Artist details",
+        "artistName": "Name",
+        "noOfListeners": "Listeners"
+    }
+}
